@@ -1,0 +1,5 @@
+# pg_debug extension
+comment = 'PostgreSQL debug'
+default_version = '1.0'
+module_pathname = '$libdir/pg_debug'
+relocatable = true

@@ -1,5 +1,0 @@
-# pg_hook extension
-comment = 'PostgreSQL hook example'
-default_version = '1.0'
-module_pathname = '$libdir/pg_hook'
-relocatable = true
